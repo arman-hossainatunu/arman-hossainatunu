@@ -10,7 +10,8 @@ Skills: ✅Web Design ✅Html5 ✅Css3 ✅Sass ✅javascript ✅Jquery ✅Bootst
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Professional Web Designer. 
-- 📫 How to reach me: www.linkedin.com/in/armanhossainatunu/ 
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/armanhossainatunu/">armanhossainatunu</a>
+- 📫 How to reach me: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arman-hossainatunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/armanhossainatunu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/armanhossainatunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/armanhossainatunu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aeman_atunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/armanhossainatunu)  
