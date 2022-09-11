@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Atunu
-#### Professional Web Designer.
+## Hi there 👋, I'm Atunu
+### Professional Web Designer.
 ![Professional Web Designer.](https://media-exp1.licdn.com/dms/image/C5616AQEAidFOyGcsBg/profile-displaybackgroundimage-shrink_200_800/0/1661407448793?e=1668643200&v=beta&t=pBuILcb9y-6E3eRm-BgyBb7p9_PlnW3E0yDZ4-NvUeo)
 
 I am Arman Hossain Atunu .As a working responsive web designer, my objective is to make a positive impact on clients, co-workers, and Internet users with my skills and experience.
@@ -10,8 +10,7 @@ Skills: ✅Web Design ✅Html5 ✅Css3 ✅Sass ✅javascript ✅Jquery ✅Bootst
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Professional Web Designer. 
-- 📫 How to reach me:<a href="https://www.linkedin.com/in/armanhossainatunu/">armanhossainatunu</a>
-- 📫 How to reach me: 
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/armanhossainatunu/">Arman hossain Atunu</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arman-hossainatunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/armanhossainatunu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/armanhossainatunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/armanhossainatunu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aeman_atunu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/armanhossainatunu)  
