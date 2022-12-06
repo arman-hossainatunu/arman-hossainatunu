@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Atunu
 ### Professional Web Designer.
-![Professional Web Designer.](https://media-exp1.licdn.com/dms/image/C5616AQEAidFOyGcsBg/profile-displaybackgroundimage-shrink_200_800/0/1661407448793?e=1668643200&v=beta&t=pBuILcb9y-6E3eRm-BgyBb7p9_PlnW3E0yDZ4-NvUeo)
 
 I am Arman Hossain Atunu .As a working responsive web designer, my objective is to make a positive impact on clients, co-workers, and Internet users with my skills and experience.
 
